@@ -2,3 +2,4 @@ gensim
 nltk==3.8.1
 pandas==1.5.1
 streamlit==1.35.0
+scipy==1.2.3
